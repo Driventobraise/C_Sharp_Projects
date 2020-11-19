@@ -1,0 +1,6 @@
+C:\repository\C_Sharp_Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe.config
+C:\repository\C_Sharp_Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe
+C:\repository\C_Sharp_Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.pdb
+C:\repository\C_Sharp_Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.exe
+C:\repository\C_Sharp_Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.pdb
