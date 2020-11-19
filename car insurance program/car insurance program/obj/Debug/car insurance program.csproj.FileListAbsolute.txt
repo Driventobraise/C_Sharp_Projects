@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\car insurance program\car insurance program\bin\Debug\car insurance program.exe.config
+C:\repository\C_Sharp_Projects\car insurance program\car insurance program\bin\Debug\car insurance program.exe
+C:\repository\C_Sharp_Projects\car insurance program\car insurance program\bin\Debug\car insurance program.pdb
+C:\repository\C_Sharp_Projects\car insurance program\car insurance program\obj\Debug\car insurance program.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\car insurance program\car insurance program\obj\Debug\car insurance program.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\car insurance program\car insurance program\obj\Debug\car insurance program.exe
+C:\repository\C_Sharp_Projects\car insurance program\car insurance program\obj\Debug\car insurance program.pdb
