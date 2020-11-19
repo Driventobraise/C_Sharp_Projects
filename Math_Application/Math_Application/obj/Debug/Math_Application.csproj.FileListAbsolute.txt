@@ -1,0 +1,6 @@
+C:\repository\C_Sharp_Projects\Math_Application\Math_Application\bin\Debug\Math_Application.exe.config
+C:\repository\C_Sharp_Projects\Math_Application\Math_Application\bin\Debug\Math_Application.exe
+C:\repository\C_Sharp_Projects\Math_Application\Math_Application\bin\Debug\Math_Application.pdb
+C:\repository\C_Sharp_Projects\Math_Application\Math_Application\obj\Debug\Math_Application.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Math_Application\Math_Application\obj\Debug\Math_Application.exe
+C:\repository\C_Sharp_Projects\Math_Application\Math_Application\obj\Debug\Math_Application.pdb
