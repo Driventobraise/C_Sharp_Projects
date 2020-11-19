@@ -23,7 +23,7 @@ namespace car_insurance_program
             int speedingTickets = Convert.ToInt32(Console.ReadLine());
 
             // Boolean logic to see is you qualify
-            bool qualified = age >= 15 && dui == false && speedingTickets <= 3;
+            bool qualified = age >= 15 && !dui && speedingTickets <= 3;
             Console.WriteLine( "Are you Qualified? " + qualified);
             Console.ReadLine();
 

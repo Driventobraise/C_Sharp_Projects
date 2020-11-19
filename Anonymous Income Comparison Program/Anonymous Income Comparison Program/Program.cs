@@ -37,14 +37,14 @@ namespace Anonymous_Income_Comparison_Program
             int weeksInYear = 52;
             decimal annualSalary1 = hourlyRate1 * hoursWorked1 * weeksInYear;
             decimal annualSalary2 = hourlyRate2 * hoursWorked2 * weeksInYear;
-            Console.WriteLine("Annual Salary of Person 1: " + annualSalary1);
+            Console.WriteLine("Annual Salary of Person 1: \n" + annualSalary1);
             Console.ReadLine();
-            Console.WriteLine("Annual Salary of Person 2: " + annualSalary2);
+            Console.WriteLine("Annual Salary of Person 2: \n" + annualSalary2);
             Console.ReadLine();
 
             // Compare 
             bool compareSalary = annualSalary1 > annualSalary2;
-            Console.WriteLine("Does Person 1 make more money than Person 2? " + compareSalary);
+            Console.WriteLine("Does Person 1 make more money than Person 2?\n " + compareSalary);
             Console.ReadLine();
         }
     }
