@@ -30,9 +30,9 @@ namespace whileLoop
                         break;
                 }
             }
-            Console.Read();
+            Console.ReadLine();
             
-            // There is a small issue switching between Programs, The do while loop while fire off once before it accepts user input, not sure how to correct this but its not fatal.
+           
             
             // Setting up the input for do while loop
             Console.WriteLine("What is the best Pet?");

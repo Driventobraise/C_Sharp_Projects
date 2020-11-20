@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\stringConsoleApp\stringConsoleApp\bin\Debug\stringConsoleApp.exe.config
+C:\repository\C_Sharp_Projects\stringConsoleApp\stringConsoleApp\bin\Debug\stringConsoleApp.exe
+C:\repository\C_Sharp_Projects\stringConsoleApp\stringConsoleApp\bin\Debug\stringConsoleApp.pdb
+C:\repository\C_Sharp_Projects\stringConsoleApp\stringConsoleApp\obj\Debug\stringConsoleApp.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\stringConsoleApp\stringConsoleApp\obj\Debug\stringConsoleApp.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\stringConsoleApp\stringConsoleApp\obj\Debug\stringConsoleApp.exe
+C:\repository\C_Sharp_Projects\stringConsoleApp\stringConsoleApp\obj\Debug\stringConsoleApp.pdb
