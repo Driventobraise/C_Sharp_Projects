@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\whileLoop\whileLoop\bin\Debug\whileLoop.exe.config
+C:\repository\C_Sharp_Projects\whileLoop\whileLoop\bin\Debug\whileLoop.exe
+C:\repository\C_Sharp_Projects\whileLoop\whileLoop\bin\Debug\whileLoop.pdb
+C:\repository\C_Sharp_Projects\whileLoop\whileLoop\obj\Debug\whileLoop.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\whileLoop\whileLoop\obj\Debug\whileLoop.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\whileLoop\whileLoop\obj\Debug\whileLoop.exe
+C:\repository\C_Sharp_Projects\whileLoop\whileLoop\obj\Debug\whileLoop.pdb
