@@ -11,13 +11,13 @@ class Program
         string[] strArray = { "Cat", "Dog", "Mouse", "Bat", "Dragon" };
         Console.WriteLine("Please enter an index of the Array to display...");
         int userIndex = Convert.ToInt32(Console.ReadLine());
+        // handling the user input if it is out parameters
         if (userIndex >= 5 | userIndex < 0)
         {
             Console.WriteLine("Please enter an index between 4 and 0..\nHit enter to continue..");
             Console.ReadLine();
             Console.WriteLine("Please enter an index of the Array to display...");
             userIndex = Convert.ToInt32(Console.ReadLine());
-            // handling the user input if it is out parameters
             if (userIndex <= 4 | userIndex >= 0)
             {
                 Console.WriteLine("The data stored at index " + userIndex + " is " + strArray[userIndex]);
@@ -57,13 +57,13 @@ class Program
         var stringList1 = new List<string>() { "Cat", "Dog", "Mouse", "Bat", "Dragon" };
         Console.WriteLine("Please enter an index of the Array to display...");
         int userIndex3 = Convert.ToInt32(Console.ReadLine());
+        // handling the user input if it is out parameters
         if (userIndex3 >= 5 | userIndex3 < 0)
         {
             Console.WriteLine("Please enter an index between 4 and 0..\nHit enter to continue..");
             Console.ReadLine();
             Console.WriteLine("Please enter an index of the Array to display...");
             userIndex3 = Convert.ToInt32(Console.ReadLine());
-            // handling the user input if it is out parameters
             if (userIndex3 <= 4 | userIndex3 >= 0)
             {
                 Console.WriteLine("The data stored at index " + userIndex3 + " is " + stringList1[userIndex3]);
