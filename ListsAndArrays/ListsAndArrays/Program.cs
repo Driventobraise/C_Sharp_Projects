@@ -20,13 +20,13 @@ class Program
             userIndex = Convert.ToInt32(Console.ReadLine());
             if (userIndex <= 4 | userIndex >= 0)
             {
-                Console.WriteLine("The data stored at index " + userIndex + " is " + strArray[userIndex]);
+                Console.WriteLine("The data stored at index " + userIndex + " is " + strArray[userIndex] + "\nPress enter to continue..");
                 Console.ReadLine();
             }
         }
         else if (userIndex <= 4 | userIndex >= 0)
         {
-            Console.WriteLine("The data stored at index " + userIndex + " is " + strArray[userIndex]);
+            Console.WriteLine("The data stored at index " + userIndex + " is " + strArray[userIndex] + "\nPress enter to continue..");
             Console.ReadLine();
         }
 
@@ -43,13 +43,13 @@ class Program
             userIndex2 = Convert.ToInt32(Console.ReadLine());
             if (userIndex2 <= 4 | userIndex2 >= 0)
             {
-                Console.WriteLine("The data stored at index " + userIndex2 + " is " + intArray[userIndex2]);
+                Console.WriteLine("The data stored at index " + userIndex2 + " is " + intArray[userIndex2] + "\nPress enter to continue..");
                 Console.ReadLine();
             }
         }
         else if (userIndex2 <= 4 | userIndex2 >= 0)
         {
-            Console.WriteLine("The data stored at index " + userIndex2 + " is " + intArray[userIndex2]);
+            Console.WriteLine("The data stored at index " + userIndex2 + " is " + intArray[userIndex2] + "\nPress enter to continue..");
             Console.ReadLine();
         }
 
@@ -66,13 +66,13 @@ class Program
             userIndex3 = Convert.ToInt32(Console.ReadLine());
             if (userIndex3 <= 4 | userIndex3 >= 0)
             {
-                Console.WriteLine("The data stored at index " + userIndex3 + " is " + stringList1[userIndex3]);
+                Console.WriteLine("The data stored at index " + userIndex3 + " is " + stringList1[userIndex3] + "\nPress enter to end..");
                 Console.ReadLine();
             }
         }
         else if (userIndex3 <= 4 | userIndex3 >= 0)
         {
-            Console.WriteLine("The data stored at index " + userIndex3 + " is " + stringList1[userIndex3]);
+            Console.WriteLine("The data stored at index " + userIndex3 + " is " + stringList1[userIndex3] + "\nPress enter to end..");
             Console.ReadLine();
         }
 
