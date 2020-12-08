@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\Six_Part_Assingment\bin\Debug\Six_Part_Assingment.exe.config
+C:\repository\C_Sharp_Projects\Six_Part_Assingment\bin\Debug\Six_Part_Assingment.exe
+C:\repository\C_Sharp_Projects\Six_Part_Assingment\bin\Debug\Six_Part_Assingment.pdb
+C:\repository\C_Sharp_Projects\Six_Part_Assingment\obj\Debug\Six_Part_Assingment.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Six_Part_Assingment\obj\Debug\Six_Part_Assingment.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Six_Part_Assingment\obj\Debug\Six_Part_Assingment.exe
+C:\repository\C_Sharp_Projects\Six_Part_Assingment\obj\Debug\Six_Part_Assingment.pdb
