@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\Math_Method_Continued\bin\Debug\Math_Method_Continued.exe.config
+C:\repository\C_Sharp_Projects\Math_Method_Continued\bin\Debug\Math_Method_Continued.exe
+C:\repository\C_Sharp_Projects\Math_Method_Continued\bin\Debug\Math_Method_Continued.pdb
+C:\repository\C_Sharp_Projects\Math_Method_Continued\obj\Debug\Math_Method_Continued.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Math_Method_Continued\obj\Debug\Math_Method_Continued.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Math_Method_Continued\obj\Debug\Math_Method_Continued.exe
+C:\repository\C_Sharp_Projects\Math_Method_Continued\obj\Debug\Math_Method_Continued.pdb
