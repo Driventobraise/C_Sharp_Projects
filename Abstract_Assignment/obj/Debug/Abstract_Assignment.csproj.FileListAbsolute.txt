@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\Abstract_Assignment\bin\Debug\Abstract_Assignment.exe.config
+C:\repository\C_Sharp_Projects\Abstract_Assignment\bin\Debug\Abstract_Assignment.exe
+C:\repository\C_Sharp_Projects\Abstract_Assignment\bin\Debug\Abstract_Assignment.pdb
+C:\repository\C_Sharp_Projects\Abstract_Assignment\obj\Debug\Abstract_Assignment.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Abstract_Assignment\obj\Debug\Abstract_Assignment.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Abstract_Assignment\obj\Debug\Abstract_Assignment.exe
+C:\repository\C_Sharp_Projects\Abstract_Assignment\obj\Debug\Abstract_Assignment.pdb
