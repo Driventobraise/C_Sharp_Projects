@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\Optional_Parameters\bin\Debug\Optional_Parameters.exe.config
+C:\repository\C_Sharp_Projects\Optional_Parameters\bin\Debug\Optional_Parameters.exe
+C:\repository\C_Sharp_Projects\Optional_Parameters\bin\Debug\Optional_Parameters.pdb
+C:\repository\C_Sharp_Projects\Optional_Parameters\obj\Debug\Optional_Parameters.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Optional_Parameters\obj\Debug\Optional_Parameters.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Optional_Parameters\obj\Debug\Optional_Parameters.exe
+C:\repository\C_Sharp_Projects\Optional_Parameters\obj\Debug\Optional_Parameters.pdb
