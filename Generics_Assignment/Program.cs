@@ -29,7 +29,7 @@ namespace Generics_Assignment
             employee2.Things = new List<int>() { 1, 2, 3, 4 };
             List<int> list2 = employee2.Things;
 
-            //lloping with foreach loop
+            //loping with foreach loop
             foreach (int thing in list2)
             {
                 Console.WriteLine(thing);

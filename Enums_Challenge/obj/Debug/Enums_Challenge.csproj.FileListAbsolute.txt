@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\Enums_Challenge\bin\Debug\Enums_Challenge.exe.config
+C:\repository\C_Sharp_Projects\Enums_Challenge\bin\Debug\Enums_Challenge.exe
+C:\repository\C_Sharp_Projects\Enums_Challenge\bin\Debug\Enums_Challenge.pdb
+C:\repository\C_Sharp_Projects\Enums_Challenge\obj\Debug\Enums_Challenge.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Enums_Challenge\obj\Debug\Enums_Challenge.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Enums_Challenge\obj\Debug\Enums_Challenge.exe
+C:\repository\C_Sharp_Projects\Enums_Challenge\obj\Debug\Enums_Challenge.pdb
