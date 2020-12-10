@@ -16,5 +16,6 @@ namespace Inheritance
             Console.WriteLine("Name: {0} {1}", FirstName, LastName);
             Console.ReadLine();
         }
+
     }
 }
