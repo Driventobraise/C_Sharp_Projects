@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\Struct_Assignment\bin\Debug\Struct_Assignment.exe.config
+C:\repository\C_Sharp_Projects\Struct_Assignment\bin\Debug\Struct_Assignment.exe
+C:\repository\C_Sharp_Projects\Struct_Assignment\bin\Debug\Struct_Assignment.pdb
+C:\repository\C_Sharp_Projects\Struct_Assignment\obj\Debug\Struct_Assignment.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Struct_Assignment\obj\Debug\Struct_Assignment.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Struct_Assignment\obj\Debug\Struct_Assignment.exe
+C:\repository\C_Sharp_Projects\Struct_Assignment\obj\Debug\Struct_Assignment.pdb
