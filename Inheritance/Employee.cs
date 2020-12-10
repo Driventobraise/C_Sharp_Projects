@@ -37,11 +37,16 @@ namespace Inheritance
         {
             if (employee.ID != employee2.ID)
             {
-                return false;
+                //I believe switch the return from false to true corrects the issue with
+                //"If both ids are the same you get true from each, and if the ids are different you get false from each.  They shouldn't return the same bool value."
+
+                //return false;
+                return true;
             }
             else
             {
-                return true;
+                //return true;
+                return false;
             }
         }
         

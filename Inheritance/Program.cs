@@ -22,6 +22,7 @@ namespace Inheritance
             employee2.ID = 2;
 
             //Compairing empoyee ids
+            Console.WriteLine("The Employee ids match: ");
             Console.WriteLine(employee == employee2);
             Console.ReadLine();
             // Calling the superclass method
