@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\Console_Log_Assignment\bin\Debug\Console_Log_Assignment.exe.config
+C:\repository\C_Sharp_Projects\Console_Log_Assignment\bin\Debug\Console_Log_Assignment.exe
+C:\repository\C_Sharp_Projects\Console_Log_Assignment\bin\Debug\Console_Log_Assignment.pdb
+C:\repository\C_Sharp_Projects\Console_Log_Assignment\obj\Debug\Console_Log_Assignment.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Console_Log_Assignment\obj\Debug\Console_Log_Assignment.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Console_Log_Assignment\obj\Debug\Console_Log_Assignment.exe
+C:\repository\C_Sharp_Projects\Console_Log_Assignment\obj\Debug\Console_Log_Assignment.pdb
