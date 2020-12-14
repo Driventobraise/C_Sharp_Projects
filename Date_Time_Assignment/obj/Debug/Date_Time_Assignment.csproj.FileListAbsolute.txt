@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\Date_Time_Assignment\bin\Debug\Date_Time_Assignment.exe.config
+C:\repository\C_Sharp_Projects\Date_Time_Assignment\bin\Debug\Date_Time_Assignment.exe
+C:\repository\C_Sharp_Projects\Date_Time_Assignment\bin\Debug\Date_Time_Assignment.pdb
+C:\repository\C_Sharp_Projects\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.exe
+C:\repository\C_Sharp_Projects\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.pdb
