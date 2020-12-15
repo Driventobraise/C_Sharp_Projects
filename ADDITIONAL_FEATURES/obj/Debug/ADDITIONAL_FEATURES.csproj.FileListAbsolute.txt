@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\ADDITIONAL_FEATURES\bin\Debug\ADDITIONAL_FEATURES.exe.config
+C:\repository\C_Sharp_Projects\ADDITIONAL_FEATURES\bin\Debug\ADDITIONAL_FEATURES.exe
+C:\repository\C_Sharp_Projects\ADDITIONAL_FEATURES\bin\Debug\ADDITIONAL_FEATURES.pdb
+C:\repository\C_Sharp_Projects\ADDITIONAL_FEATURES\obj\Debug\ADDITIONAL_FEATURES.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\ADDITIONAL_FEATURES\obj\Debug\ADDITIONAL_FEATURES.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\ADDITIONAL_FEATURES\obj\Debug\ADDITIONAL_FEATURES.exe
+C:\repository\C_Sharp_Projects\ADDITIONAL_FEATURES\obj\Debug\ADDITIONAL_FEATURES.pdb
