@@ -1,0 +1,7 @@
+C:\repository\C_Sharp_Projects\MORE_EXCEPTION_HANDLINGS\obj\Debug\MORE_EXCEPTION_HANDLINGS.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\MORE_EXCEPTION_HANDLINGS\obj\Debug\MORE_EXCEPTION_HANDLINGS.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\MORE_EXCEPTION_HANDLINGS\bin\Debug\MORE_EXCEPTION_HANDLINGS.exe.config
+C:\repository\C_Sharp_Projects\MORE_EXCEPTION_HANDLINGS\bin\Debug\MORE_EXCEPTION_HANDLINGS.exe
+C:\repository\C_Sharp_Projects\MORE_EXCEPTION_HANDLINGS\bin\Debug\MORE_EXCEPTION_HANDLINGS.pdb
+C:\repository\C_Sharp_Projects\MORE_EXCEPTION_HANDLINGS\obj\Debug\MORE_EXCEPTION_HANDLINGS.exe
+C:\repository\C_Sharp_Projects\MORE_EXCEPTION_HANDLINGS\obj\Debug\MORE_EXCEPTION_HANDLINGS.pdb
