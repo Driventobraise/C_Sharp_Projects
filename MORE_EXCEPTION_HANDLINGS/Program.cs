@@ -26,8 +26,8 @@ namespace MORE_EXCEPTION_HANDLINGS
                     throw new YouCantBeThatAge();
                 }
                 int timeNow = DateTime.Now.Year;
-                int youWhereBorn = timeNow - age;
-                Console.WriteLine("You where born in {0}", youWhereBorn);
+                int youWereBorn = timeNow - age;
+                Console.WriteLine("You where born in {0}", youWereBorn);
                 Console.ReadLine();
 
             }
