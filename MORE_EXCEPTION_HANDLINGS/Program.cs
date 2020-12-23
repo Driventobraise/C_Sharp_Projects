@@ -27,7 +27,7 @@ namespace MORE_EXCEPTION_HANDLINGS
                 }
                 int timeNow = DateTime.Now.Year;
                 int youWereBorn = timeNow - age;
-                Console.WriteLine("You where born in {0}", youWereBorn);
+                Console.WriteLine("You were born in {0}", youWereBorn);
                 Console.ReadLine();
 
             }
