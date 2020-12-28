@@ -1,0 +1,13 @@
+C:\repository\C_Sharp_Projects\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\repository\C_Sharp_Projects\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\repository\C_Sharp_Projects\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\repository\C_Sharp_Projects\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\repository\C_Sharp_Projects\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\repository\C_Sharp_Projects\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\repository\C_Sharp_Projects\Scores\obj\Debug\netcoreapp3.1\Scores.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\repository\C_Sharp_Projects\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\repository\C_Sharp_Projects\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\repository\C_Sharp_Projects\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\repository\C_Sharp_Projects\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache
