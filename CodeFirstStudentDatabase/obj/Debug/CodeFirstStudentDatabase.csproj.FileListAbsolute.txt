@@ -1,0 +1,12 @@
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\bin\Debug\CodeFirstStudentDatabase.exe.config
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\bin\Debug\CodeFirstStudentDatabase.exe
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\bin\Debug\CodeFirstStudentDatabase.pdb
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\bin\Debug\EntityFramework.dll
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\bin\Debug\EntityFramework.xml
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.csprojAssemblyReference.cache
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.csproj.CoreCompileInputs.cache
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.csproj.CopyComplete
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.exe
+C:\repository\C_Sharp_Projects\CodeFirstStudentDatabase\obj\Debug\CodeFirstStudentDatabase.pdb
