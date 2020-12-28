@@ -142,6 +142,60 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                var basequote = 50m;
+
+                // Checking age.
+                var age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+                if (age <= 18)
+                {
+                    basequote += 100m;
+                }
+                if (age >= 19 && age <= 25)
+                {
+                    basequote += 50m;
+                }
+                if (age > 25)
+                {
+                    basequote += 25m;
+                }
+                //Checking car year.
+                if (insuree.CarYear < 2000)
+                {
+                    basequote += 25m;
+                }
+                if (insuree.CarYear > 2015)
+                {
+                    basequote += 25m;
+                }
+                //Checking car make.
+                if (insuree.CarMake == "Porsche")
+                {
+                    basequote += 25m;
+                }
+                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+                {
+                    basequote += 25m;
+                }
+                //Checking speeding tickets.
+                if (insuree.SpeedingTickets > 0)
+                {
+                    var speedingtickets = Convert.ToDecimal(insuree.SpeedingTickets);
+                    var cost = 10m * speedingtickets;
+                    basequote += cost;
+                }
+                //Checking DUI.
+                if (insuree.DUI == true)
+                {
+                    var morecost = basequote * .25m;
+                    basequote += morecost;
+                }
+                //Checking coverage.
+                if (insuree.CoverageType == true)
+                {
+                    var evenmorecost = basequote * .50m;
+                    basequote += evenmorecost;
+                }
+                insuree.Quote = basequote;
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
